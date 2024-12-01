@@ -6,6 +6,11 @@
 This project is a **Donation Smart Contract** built with Solidity. It ensures secure, scalable, and transparent handling of donations while integrating Chainlink oracles to verify a minimum USD donation value. The contract has been deployed and tested on the **Arbitrum Sepolia Testnet**.
 
 
+## **Contract Addresses**  
+
+- **Price Converter Contract:** `0x24a753f9220F83dA6E965872f063a39956616769`  
+- **Donation Contract:** `0x317fEb46E8bA35701A41c9E351Eff92d2D3FBe2F`  
+
 
 ## **Features**  
 - **Donation Functionality:**  
@@ -20,14 +25,6 @@ This project is a **Donation Smart Contract** built with Solidity. It ensures se
 - **Security Measures:**  
   - Implements a modifier to restrict owner-only access to sensitive functions.  
   - Protects against insufficient contract balance or donation amounts.  
-
-
-
-## **Contract Addresses**  
-
-- **Price Converter Contract:** `0x24a753f9220F83dA6E965872f063a39956616769`  
-- **Donation Contract:** `0x317fEb46E8bA35701A41c9E351Eff92d2D3FBe2F`  
-
 
 
 ## **How It Works**  
