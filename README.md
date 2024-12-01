@@ -3,7 +3,7 @@
 # Donation Smart Contract  
 
 ## **Overview**  
-This project is a **Donation Smart Contract** built with Solidity. It ensures secure, scalable, and transparent handling of donations while integrating Chainlink oracles to verify a minimum USD donation value. The contract has been deployed and tested on the **Arbitrum Sepolia Testnet**.
+This project is a **Donation Smart Contract** built with Solidity. It ensures secure, scalable, and transparent handling of donations while integrating Chainlink oracles to verify a minimum USD donation value. The contract has been deployed and tested on the **SepoliaETH Testnet**.
 
 
 ## **Contract Addresses**  
