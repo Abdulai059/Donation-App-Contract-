@@ -5,7 +5,7 @@
 ## **Overview**  
 This project is a **Donation Smart Contract** built with Solidity. It ensures secure, scalable, and transparent handling of donations while integrating Chainlink oracles to verify a minimum USD donation value. The contract has been deployed and tested on the **Arbitrum Sepolia Testnet**.
 
----
+
 
 ## **Features**  
 - **Donation Functionality:**  
@@ -28,7 +28,7 @@ This project is a **Donation Smart Contract** built with Solidity. It ensures se
 - **Price Converter Contract:** `0x24a753f9220F83dA6E965872f063a39956616769`  
 - **Donation Contract:** `0x317fEb46E8bA35701A41c9E351Eff92d2D3FBe2F`  
 
----
+
 
 ## **How It Works**  
 
@@ -51,14 +51,13 @@ The project includes the following files:
 ### **3. Price Conversion:**  
 The `PriceConverter` library fetches the current ETH price using the Chainlink Price Feed address **`0x694AA1769357215DE4FAC081bf1f309aDC325306`** for the Arbitrum Sepolia Testnet.  
 
----
 
 ## **Deployment Details**  
 The contract has been deployed and tested on the **Sepolia Testnet**.  
 
 - **Price Feed Address:** `0x694AA1769357215DE4FAC081bf1f309aDC325306`  
 - **Minimum Donation:** $50 USD  
----
+
 
 ## **Expected Outcomes**  
 
@@ -68,7 +67,6 @@ By completing this project, I can:
 3. **Deploy and test** your smart contract on the Sepolia Testnet.  
 4. Demonstrate your ability to handle **security vulnerabilities and edge cases**.  
 
----
 
 ## **License**  
 This project is licensed under the **MIT License**.  
